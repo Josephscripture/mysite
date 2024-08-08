@@ -1,0 +1,1 @@
+my begginning in django
